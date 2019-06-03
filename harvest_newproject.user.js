@@ -1,10 +1,15 @@
 // ==UserScript==
 // @name         HarvestApp New Project Button
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @homepage     https://github.com/aeno/harvestapp-new-project-btn
+// @updateURL    https://github.com/aeno/harvestapp-new-project-btn/raw/master/harvest_newproject.user.js
+// @supportURL   https://github.com/aeno/harvestapp-new-project-btn/issues
+// @version      0.2
 // @description  Adds a small "New Project" button to your timesheet, right under the "New Entry" button
 // @author       Aeno<tampermonkey@aenogym.de>
 // @match        https://*.harvestapp.com/time
+// @match        https://*.harvestapp.com/time/
+// @match        https://*.harvestapp.com/time/day/*
 // @grant        none
 // ==/UserScript==
 
